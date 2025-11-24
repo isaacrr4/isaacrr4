@@ -34,7 +34,6 @@ Durante o curso, aprendo tanto a parte lógica quanto a prática do desenvolvime
 - Banco de dados (SQL)  
 - Desenvolvimento de sistemas  
 
-*(Posso personalizar com suas linguagens e tecnologias reais.)*
 
 ---
 
@@ -49,9 +48,8 @@ Durante o curso, aprendo tanto a parte lógica quanto a prática do desenvolvime
 
 ## 📫 Como falar comigo
 
-- **Email:** seuemail@exemplo.com  
-- **LinkedIn:** https://linkedin.com/in/seuusuario  
-- **Instagram (opcional):** @seuuser  
+- **Email:** is4ckrt@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/isaac-rodrigues-23960537b/  
 
 ---
 
